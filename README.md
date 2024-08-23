@@ -1,3 +1,14 @@
+Bienvenido a mi portafolio en GitHub. Soy Fernando Alfayé, un apasionado desarrollador front-end con experiencia en la creación de experiencias web excepcionales. Este repositorio alberga mi sitio web personal, que presenta proyectos destacados, mi currículum y una sección de contacto para futuras oportunidades de colaboración.
+
+Características principales:
+
+Diseño moderno y receptivo: Utiliza tecnologías como React, Framer Motion y Tailwind CSS para una interfaz de usuario atractiva y funcional.
+Secciones interactivas: Incluye secciones para proyectos, contacto y una vista previa de mi currículum.
+Integración con Nodemailer: Envía mensajes directamente desde la sección de contacto.
+Puedes explorar el código fuente, ver cómo está construido el sitio y contribuir si lo deseas. Si tienes alguna pregunta o propuesta, no dudes en contactarme.
+
+¡Gracias por visitar mi portafolio!
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
