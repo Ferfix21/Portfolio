@@ -135,7 +135,7 @@ function HeroSection({ openCVInNewTab }: { openCVInNewTab: () => void }) {
     >
       <div className="container mx-auto px-4 text-center">
         <motion.h2 variants={variants} className="text-4xl font-bold mb-4 text-amber-800">
-          Hi, I'm Fernando Alfayé
+          Hi, I&apos;m Fernando Alfayé
         </motion.h2>
         <motion.p variants={variants} className="text-xl mb-8 text-amber-700">
           A passionate front-end developer creating amazing web experiences
@@ -187,7 +187,7 @@ function ProjectsSection() {
                   <CardDescription>A brief description of Project {project}</CardDescription>
                 </CardHeader>
                 <CardContent>
-                  <img 
+                  <Image 
                     src={`/placeholder.svg?height=200&width=400`} 
                     alt={`Project ${project}`}
                     className="w-full h-48 object-cover rounded-md"
