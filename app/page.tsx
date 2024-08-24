@@ -9,6 +9,8 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { GithubIcon, LinkedinIcon, MailIcon, MenuIcon } from 'lucide-react';
 import Image from 'next/image';
+import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Analytics } from "@vercel/analytics/react"
 
 export default function Page() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
