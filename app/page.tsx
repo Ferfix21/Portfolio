@@ -82,7 +82,7 @@ export default function Page() {
             className="relative px-2 py-1 text-amber-700 dark:text-amber-300 hover:text-amber-500 dark:hover:text-amber-100 transition-colors duration-200 group cursor-pointer"
           >
             {item}
-            <span className="absolute left-4 bottom-0 w-full h-0.5 bg-amber-500 dark:bg-amber-300 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-200"></span>
+            <span className="absolute left-0 bottom-0 w-full h-0.5 bg-amber-500 dark:bg-amber-300 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-200"></span>
           </a>
         ))}
       </nav>
