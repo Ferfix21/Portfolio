@@ -192,8 +192,11 @@ function ProjectsSection() {
                   <Image 
                     src={`/placeholder.svg?height=200&width=400`} 
                     alt={`Project ${project}`}
+                    width={400}    // Set the width here
+                    height={200}   // Set the height here
                     className="w-full h-48 object-cover rounded-md"
                   />
+
                 </CardContent>
                 <CardFooter>
                   <Button className="bg-amber-600 hover:bg-amber-700 text-white">View Project</Button>
